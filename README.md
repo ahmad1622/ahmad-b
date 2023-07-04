@@ -9,7 +9,7 @@ Support php7+
 
 # Installation :
 ```
-git clone https://github.com/MrParAziT/iranian-sms-bomber
-cd iranian-sms-bomber
+git clone https://github.com/ahmad1622/ahmad-sms-bomber
+cd ahmad-sms-bomber
 php sms.php
 ```
